@@ -19,8 +19,6 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        redView.layer.borderWidth = 5
-        redView.layer.borderColor = UIColor.black.cgColor
         redView.backgroundColor = .red
         
     }
